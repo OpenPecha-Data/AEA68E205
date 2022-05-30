@@ -1,0 +1,28 @@
+segment_sources:
+  IDD60A07D:
+    type: origin_type
+    relation: translation
+    language: en
+  I4966B8BE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  30195eb1c4ec4ba7b13e5b3bfee05944:
+    IDD60A07D: 628d9aec9d4f4e56993fcd3ec5223907
+    I4966B8BE: e360b510984641a7ba573e31e27a9c08
+  3d3627254cd24670bf43eba6bbc6aa40:
+    IDD60A07D: bbfb045bca094834bdbe6888dc4756f2
+    I4966B8BE: 90e3be1410ea4b1593b58df83442e325
+  2b97400250c64ce7a2444710e5f360b0:
+    IDD60A07D: a56ba5848ce1404d93d3d8bdad6fe1ca
+    I4966B8BE: 8e87192e5a2d45ac967db963212b422b
+  772c006e076d4d929cfd6029ed7716f0:
+    IDD60A07D: ec0d34d6b89b4337a5b48e799cb03757
+    I4966B8BE: a5568d3297e94ed2aab756d3b5d96f36
+  e24ee38e540646ba879c0c4abd2460a0:
+    IDD60A07D: c6376a46343b44e5b6f7aae57992e7a6
+    I4966B8BE: ed33e72108ae4249b8087b5177fccd14
+  bc27f65efb324d4cbffe08621ce3f5e3:
+    IDD60A07D: b13c0a09f50b4bed85c10c68e17062e9
+    I4966B8BE: 88b926e7a3074aa2990692ad72e235ab
